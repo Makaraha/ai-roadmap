@@ -51,7 +51,7 @@ Before starting, ensure you have:
 ## Level 1: Conceptual Foundation (2w total)
 
 ### 1.1 What is AI/ML (~1 hr)
-- [ ] [Difference Between Classical Programming and Machine Learning (20 min)](https://www.reddit.com/r/AskComputerScience/comments/18tb705/difference_between_classical_programming_and/)
+- [x] [Difference Between Classical Programming and Machine Learning (20 min)](https://www.reddit.com/r/AskComputerScience/comments/18tb705/difference_between_classical_programming_and/)
 - [ ] [IBM: What is Machine Learning? (8 min)](https://www.youtube.com/watch?v=9gGnTQTYNaE)
 - [ ] [StatQuest: A Gentle Introduction to Machine Learning (13 min)](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
 - [ ] [Google's intro to ML: what is Machine Learning (10 min)](https://developers.google.com/machine-learning/intro-to-ml/what-is-ml)
