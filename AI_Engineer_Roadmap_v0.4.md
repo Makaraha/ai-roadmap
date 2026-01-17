@@ -52,17 +52,17 @@ Before starting, ensure you have:
 
 ### 1.1 What is AI/ML (~1 hr)
 - [x] [Difference Between Classical Programming and Machine Learning (20 min)](https://www.reddit.com/r/AskComputerScience/comments/18tb705/difference_between_classical_programming_and/)
-- [ ] [IBM: What is Machine Learning? (8 min)](https://www.youtube.com/watch?v=9gGnTQTYNaE)
+- [x] [IBM: What is Machine Learning? (8 min)](https://www.youtube.com/watch?v=9gGnTQTYNaE)
 - [ ] [StatQuest: A Gentle Introduction to Machine Learning (13 min)](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
 - [ ] [Google's intro to ML: what is Machine Learning (10 min)](https://developers.google.com/machine-learning/intro-to-ml/what-is-ml)
-- [ ] [Optional] [Microsoft Learn: Introduction to machine learning concepts (1.5 hr)](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/)
+- [x] [Optional] [Microsoft Learn: Introduction to machine learning concepts (1.5 hr)](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/)
 
 
 **Check Yourself:**
-- [ ] How would you explain the difference between traditional programming and ML to a non-technical colleague?
-- [ ] If someone says "AI", "ML", and "Deep Learning" — can you explain how these terms relate to each other?
-- [ ] Given a business problem, can you identify whether it needs supervised, unsupervised, or reinforcement learning?
-- [ ] Why can't you just write rules manually for recognizing handwritten digits?
+- [x] How would you explain the difference between traditional programming and ML to a non-technical colleague?
+- [x] If someone says "AI", "ML", and "Deep Learning" — can you explain how these terms relate to each other?
+- [x] Given a business problem, can you identify whether it needs supervised, unsupervised, or reinforcement learning?
+- [x] Why can't you just write rules manually for recognizing handwritten digits?
 
 ### 1.2 Problem Types (~1.5 hrs)
 
