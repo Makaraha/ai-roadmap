@@ -66,7 +66,7 @@ Before starting, ensure you have:
 
 ### 1.2 Problem Types (~1.5 hrs)
 
-- [ ] [Micrososft Learn: Introduction to AI concepts (30 min)](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)
+- [x] [Micrososft Learn: Introduction to AI concepts (30 min)](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)
 
 - [ ] [Infinite Codes: All Machine Learning algorithms explained (17 minues)](https://www.youtube.com/watch?v=E0Hmnixke2g). Mighe be a bit technical but gives a good overview along with use cases
 
