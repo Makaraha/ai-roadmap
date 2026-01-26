@@ -187,10 +187,10 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
 - [x] **Classification**. **When to use:** predicting categories/labels. E.g. spam detection, sentiment analysis, image recognition.
   [Computerphile: Data Analysis 8: Classifying Data (16 min)](https://www.youtube.com/watch?v=1opLSwlqBSI&list=PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba)
 
-- [ ] **Regression**. **When to use:** predicting continuous values. E.g. price prediction, demand forecasting, risk scoring.
+- [x] **Regression**. **When to use:** predicting continuous values. E.g. price prediction, demand forecasting, risk scoring.
   [Computerphile: Data Analysis 9: Data Regression (16 min)](https://www.youtube.com/watch?v=ek0yyL8iV7I&list=PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba)
 
-- [ ] **Generation**. **When to use:** creating new content. E.g. text generation, image creation, code completion.
+- [x] **Generation**. **When to use:** creating new content. E.g. text generation, image creation, code completion.
   [Google: "Introduction to Generative AI" (22 min)](https://www.youtube.com/watch?v=G2fqAlgmoPo) - optional deep dive
   [Optional] [Microsoft Learn: Introduction to generative AI and agents (37 min)](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)
 
