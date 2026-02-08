@@ -131,9 +131,9 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
 **Key idea:** Be specific, ask for analogies, request step-by-step explanations, and verify your understanding by restating concepts back to the LLM.
 
 ### 0.2 Prompting Techniques basics (~1 hr)
-- [ ] [Learn Prompting: Instructions in prompts (6 min)](https://learnprompting.org/docs/basics/instructions)
-- [ ] [Learn Prompting: Roles in Prompts (9 min)](https://learnprompting.org/docs/basics/roles); [Revisitng roles (3 min)](https://learnprompting.org/docs/intermediate/revisiting_roles)
-- [ ] [Learn Prompting: From Zero-Shot to Few-Shot (13 min)](https://learnprompting.org/docs/basics/few_shot)
+- [x] [Learn Prompting: Instructions in prompts (6 min)](https://learnprompting.org/docs/basics/instructions)
+- [x] [Learn Prompting: Roles in Prompts (9 min)](https://learnprompting.org/docs/basics/roles); [Revisitng roles (3 min)](https://learnprompting.org/docs/intermediate/revisiting_roles)
+- [x] [Learn Prompting: From Zero-Shot to Few-Shot (13 min)](https://learnprompting.org/docs/basics/few_shot)
 - [ ] [Learn Prompting: Combining Prompting Techniques (4 min)](https://learnprompting.org/docs/basics/combining_techniques)
 - [ ] [Learn Prompting: Tips for Writing Better Prompts (5 min)](https://learnprompting.org/docs/basics/ai_prompt_tips)
 - [ ] [Learn Prompting: Prompt Priming: Setting Context for AI (11 min)](https://learnprompting.org/docs/basics/priming_prompt)
