@@ -138,9 +138,9 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
 - [x] [Learn Prompting: Tips for Writing Better Prompts (5 min)](https://learnprompting.org/docs/basics/ai_prompt_tips)
 - [x] [Learn Prompting: Prompt Priming: Setting Context for AI (11 min)](https://learnprompting.org/docs/basics/priming_prompt)
 - [x] [Learn Prompting: Differences Between Chatbots and LLMs (6 min)](https://learnprompting.org/docs/basics/chatbot_basics)
-- [ ] [Learn Prompting: LLM Limitations: When Models and Chatbots Make Mistakes (5 min)](https://learnprompting.org/docs/basics/pitfalls)
-- [ ] [Learn Prompting: What Can Generative AI Create Beyond Text? (7 min)](https://learnprompting.org/docs/basics/generative_ai_applications)
-- [ ] [Learn Prompting: How to Solve Problems Using Generative AI: A Simple Method (5 min)](https://learnprompting.org/docs/basics/learn_prompting_method)
+- [x] [Learn Prompting: LLM Limitations: When Models and Chatbots Make Mistakes (5 min)](https://learnprompting.org/docs/basics/pitfalls)
+- [x] [Learn Prompting: What Can Generative AI Create Beyond Text? (7 min)](https://learnprompting.org/docs/basics/generative_ai_applications)
+- [x] [Learn Prompting: How to Solve Problems Using Generative AI: A Simple Method (5 min)](https://learnprompting.org/docs/basics/learn_prompting_method)
 
 ### 0.3 Advanced Prompting Techniques (~30 min)
 - [ ] [Learn Prompting: Chain-of-Thought Prompting (4 min)](https://learnprompting.org/docs/intermediate/chain_of_thought)
