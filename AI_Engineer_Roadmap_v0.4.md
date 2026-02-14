@@ -195,11 +195,11 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
   [Optional] [Microsoft Learn: Introduction to generative AI and agents (37 min)](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)
 
 **Check Yourself:**
-- [ ] A client wants to predict which customers will churn next month - what problem type is this?
-- [ ] You need to group similar support tickets automatically without predefined categories - what approach?
-- [ ] What's the key difference between classification and regression in terms of output?
-- [ ] When would you choose clustering over classification?
-- [ ] Can you name a real-world example for each problem type from your own domain/experience?
+- [x] A client wants to predict which customers will churn next month - what problem type is this?
+- [x] You need to group similar support tickets automatically without predefined categories - what approach?
+- [x] What's the key difference between classification and regression in terms of output?
+- [x] When would you choose clustering over classification?
+- [x] Can you name a real-world example for each problem type from your own domain/experience?
 
 ### 1.3 Inside a Neural Network (~2 hrs)
 > You don't need to implement these from scratch, but understanding how models learn helps you debug issues and set realistic expectations
