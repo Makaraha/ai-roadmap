@@ -204,33 +204,33 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
 ### 1.3 Inside a Neural Network (~2 hrs)
 > You don't need to implement these from scratch, but understanding how models learn helps you debug issues and set realistic expectations
 
-- [ ] **Neurons, layers, weights, biases**
+- [x] **Neurons, layers, weights, biases**
   [3Blue1Brown: But what is a neural network (19 min)](https://www.3blue1brown.com/lessons/neural-networks)
 
-- [ ] **Gradient descent intuition**
+- [x] **Gradient descent intuition**
   [3Blue1Brown: "Gradient descent, how neural networks learn (21 min)"](https://www.3blue1brown.com/lessons/gradient-descent)
   [3Blue1Brown: Analyzing our neural network (10 min)](https://www.3blue1brown.com/lessons/neural-network-analysis)
 
-- [ ] **Backpropagation**
+- [x] **Backpropagation**
   [3Blue1Brown: "What is backpropagation really doing?" (13 min)](https://www.3blue1brown.com/lessons/backpropagation)
   [Optional] [3Blue1Brown: Backpropagation calculus (10 min)](https://www.3blue1brown.com/lessons/backpropagation-calculus)
 
-- [ ] **Training vs Inference**
+- [x] **Training vs Inference**
   [IBM Technology: AI Inference: The Secret to AI's Superpowers (11 min)](https://www.youtube.com/watch?v=XtT5i0ZeHHE)
 
-- [ ] **Bias and variance**
+- [x] **Bias and variance**
   [StatQuest: Machine Learning Fundamentals: Bias and Variance (6 min)](https://www.youtube.com/watch?v=EuBBz3bI-aA)
 
-- [ ] **Overfitting & underfitting**
+- [x] **Overfitting & underfitting**
   [IBM Technology: Overfitting, Underfitting, and Bad Data Are Ruining Your Predictive Models (7 min)](https://www.youtube.com/watch?v=0RT2Q0qwXSA)
 
 
 **Check yourself:**
-- [ ] A colleague asks: "Why can't we just calculate the perfect weights directly instead of training?" How do you explain gradient descent?
-- [ ] Your model performs great on training data (98% accuracy) but poorly on new data (60% accuracy). What's the problem and what causes it?
-- [ ] Your model performs poorly on both training AND test data (~55% accuracy). What's likely wrong?
-- [ ] You're estimating cloud costs for a project. The client asks: "Why is training so much more expensive than running the model?" What's your explanation?
-- [ ] During a code review, someone asks why backpropagation matters. How do you explain its role in training without diving into calculus?
+- [x] A colleague asks: "Why can't we just calculate the perfect weights directly instead of training?" How do you explain gradient descent?
+- [x] Your model performs great on training data (98% accuracy) but poorly on new data (60% accuracy). What's the problem and what causes it?
+- [x] Your model performs poorly on both training AND test data (~55% accuracy). What's likely wrong?
+- [x] You're estimating cloud costs for a project. The client asks: "Why is training so much more expensive than running the model?" What's your explanation?
+- [x] During a code review, someone asks why backpropagation matters. How do you explain its role in training without diving into calculus?
 
 ### 1.4 AI Task Types with Business Examples (~3 hrs)
 
