@@ -234,33 +234,33 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
 
 ### 1.4 AI Task Types with Business Examples (~3 hrs)
 
-- [ ] **Overview: AI Applications in Business**
+- [x] **Overview: AI Applications in Business**
   [TED: How AI Could Empower Any Business | Andrew Ng (11 min)](https://www.youtube.com/watch?v=reUZRyXxUs4)
 
-- [ ] **OCR (Optical Character Recognition)**
+- [x] **OCR (Optical Character Recognition)**
   [IBM Technology: "What is OCR?" (6 min)](https://www.youtube.com/watch?v=or8AcS6y1xg)
   **Use cases:** invoice processing, document digitization, license plates
 
-- [ ] **Natural Language Processing (NLP)**
+- [x] **Natural Language Processing (NLP)**
   [IBM Technology: "Natural Language Processing" (10 min)](https://www.youtube.com/watch?v=fLvJ8VdHLA0)
   [Optional] [Microsoft Learn: Introduction to natural language processing concepts(30 min)](https://learn.microsoft.com/en-us/training/modules/introduction-language/)
   **Use cases:** extracting names/dates from contracts, parsing resumes
 
-- [ ] **Sentiment Analysis**
+- [x] **Sentiment Analysis**
   [IBM Technology: "What is Sentiment Analysis?" (10 min)](https://www.youtube.com/watch?v=5HQCNAsSO-s)
   **Use cases:** customer feedback, social media monitoring
 
-- [ ] **Recommendation Systems**
+- [x] **Recommendation Systems**
   [Nvidia: Recommendation system (20 min)](https://www.nvidia.com/en-us/glossary/recommendation-system/)
   [Optional] [CS50: Recommender Systems | Linus Torvalds (14 min)](https://www.youtube.com/watch?v=Eeg1DEeWUjA)
   **Use cases:** product suggestions, content personalization
 
-- [ ] **Conversational AI**
+- [x] **Conversational AI**
   [Jeff Su: AI Agents, Clearly Explained (10 min)](https://www.youtube.com/watch?v=FwOTs4UxQS4)
   [Alternative] [IBM Technology: What are AI agents (13 min)](https://www.youtube.com/watch?v=F8NKVhkZZWI)
   **Use cases:** chatbots, virtual assistants, customer support
 
-- [ ] **Computer Vision**
+- [x] **Computer Vision**
   [AltexSoft: How Computer Vision Applications Work (13 min)](https://www.youtube.com/watch?v=oGvHtpJMO3M)
   [Alternative] [IBM: What is computer vision (20 min)](https://www.ibm.com/think/topics/computer-vision)
   [Optional] [Microsoft Learn: Introduction to computer vision concepts (34 min)](https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision/)
@@ -270,7 +270,7 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
 ### 1.5 Introduction to LLMs (~1 hr)
 > LLMs are your primary tool as an AI Engineer. Understanding how they work (tokenization, context, attention) directly impacts how you design prompts and systems.
 
-- [ ] What are LLMs?
+- [x] What are LLMs?
   [3Blue1Brown: Large Language Models explained briefly (8 min)](https://www.3blue1brown.com/lessons/mini-llm)
   [Alternative] [IBM Technology: How Large Language Models Work (6 min)](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
 
