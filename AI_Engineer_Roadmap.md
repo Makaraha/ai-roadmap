@@ -274,10 +274,10 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
   [3Blue1Brown: Large Language Models explained briefly (8 min)](https://www.3blue1brown.com/lessons/mini-llm)
   [Alternative] [IBM Technology: How Large Language Models Work (6 min)](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
 
-- [ ] **Transformers**
+- [x] **Transformers**
   [3Blue1Brown: Transformers, the tech behind LLMs (27 min)](https://www.3blue1brown.com/lessons/gpt)
 
-- [ ] **Tokenization**
+- [x] **Tokenization**
   [Matt Pocock: Most devs don't understand how LLM tokens work (11 min)](https://www.youtube.com/watch?v=nKSk_TiR8YA)
 
 ---
@@ -290,7 +290,7 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
 >**Note:** This assumes programming experience. Focus on Python-specific patterns used heavily in AI/ML code. If you are familiar with Python you can skip this level or just review some sections.
 
 
-- [ ] **Python for experienced developers (quick overview)**
+- [x] **Python for experienced developers (quick overview)**
   [Learn X in Y Minutes: Python](https://learnxinyminutes.com/docs/python/) - fast syntax overview - 30 min read for experienced devs.
   [Alternative] [Python Official Tutorial](https://docs.python.org/3/tutorial/) - skim as reference
 
