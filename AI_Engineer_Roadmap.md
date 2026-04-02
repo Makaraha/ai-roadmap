@@ -294,18 +294,18 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
   [Learn X in Y Minutes: Python](https://learnxinyminutes.com/docs/python/) - fast syntax overview - 30 min read for experienced devs.
   [Alternative] [Python Official Tutorial](https://docs.python.org/3/tutorial/) - skim as reference
 
-- [ ] **Iterables**
+- [x] **Iterables**
   [Bro Code: Learn Python iterables (6 min)](https://www.youtube.com/watch?v=VL_g3LjsFqs) - processing batches of embeddings, streaming chunks from LLM responses, iterating through dataset rows.
 
-- [ ] **Working with dictionaries**
+- [x] **Working with dictionaries**
   [Corey Schafer: Dictionaries (10 min)](https://www.youtube.com/watch?v=daefaLgNkw0)
   [Bro Code: learn Python generators (8 min)](https://www.youtube.com/watch?v=G1lJeEIl05o)
   **Key patterns:** nested access, `.get()` with defaults, dict comprehensions, merging dicts
 
-- [ ] **List comprehensions, generators**
+- [x] **List comprehensions, generators**
   [Bro Code: List comprehensions (10 min)](https://www.youtube.com/watch?v=YlY2g2xrl6Q) -  transforming datasets, filtering results, memory-efficient processing of large document collections
 
-- [ ] **Args, kwargs**
+- [x] **Args, kwargs**
   [Bro Code: *args & **kwargs (15 min)](https://www.youtube.com/watch?v=Vh__2V2tXUM)
 
 - [ ] **Exception handling**
