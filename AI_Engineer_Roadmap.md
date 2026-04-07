@@ -308,11 +308,11 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
 - [x] **Args, kwargs**
   [Bro Code: *args & **kwargs (15 min)](https://www.youtube.com/watch?v=Vh__2V2tXUM)
 
-- [ ] **Exception handling**
+- [x] **Exception handling**
   [Bro Code: exception handling (6 min)](https://www.youtube.com/watch?v=V_NXT2-QIlE)
   **Key patterns:** try/except/finally, catching specific exceptions, raising custom exceptions
 
-- [ ] **String manipulation**
+- [x] **String manipulation**
   [Bro Code: string methods (12 min)](https://www.youtube.com/watch?v=tb6EYiHtcXU)
   **Key patterns:** f-strings, `.format()`, `.strip()`, `.split()`, `.join()`, regex basics
 
