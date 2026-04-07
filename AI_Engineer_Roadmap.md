@@ -316,27 +316,27 @@ The AI field evolves rapidly. Subscribe to these to stay updated:
   [Bro Code: string methods (12 min)](https://www.youtube.com/watch?v=tb6EYiHtcXU)
   **Key patterns:** f-strings, `.format()`, `.strip()`, `.split()`, `.join()`, regex basics
 
-- [ ] **JSON serialization/deserialization**
+- [x] **JSON serialization/deserialization**
   [Tech with Tim: How to use JSON in Python (6 min)](https://youtu.be/-51jxlQaxyA?si=FOZLi2UBk4G4BZMl)
   **Key operations:** `json.loads()`, `json.dumps()`, handling nested structures, custom encoders
 
-- [ ] **Context managers (`with` statements)**
+- [x] **Context managers (`with` statements)**
   [2MinutesPy: What exactly are context managers (2 min)](https://www.youtube.com/watch?v=IQ20WLlEHbU)
   **Key patterns:** file handling, database connections, custom context managers
 
-- [ ] **File operations**
+- [x] **File operations**
   [Bro Code: Read files (7 min)](https://www.youtube.com/watch?v=GWBWQnWNWBI)
   [Bro Code: Writing files (14 min)](https://www.youtube.com/watch?v=1IYrmTTKOoI)
   **Key patterns:** reading text/binary files, handling encodings, working with paths
 
-- [ ] **HTTP requests**
+- [x] **HTTP requests**
   [Bro code: Request API data (9 min)](https://www.youtube.com/watch?v=JVQNywo4AbU)
   **Key patterns:** GET/POST, headers, JSON payloads, handling responses
 
-- [ ] **Asyncio (async/await)**
+- [x] **Asyncio (async/await)**
   [Code with Josh: Python Asynchronous Programming Tutorial: Asyncio, async & await Explained (19 min)](https://www.youtube.com/watch?v=ngXbyui-weA)
 
-- [ ] **Decorators**
+- [x] **Decorators**
   [Bro Code: learn Python decorators (7 min)](https://www.youtube.com/watch?v=U-G-mSd4KAE)
 
 - [ ] **Type hints**
